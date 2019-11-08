@@ -12,6 +12,6 @@ bash run.sh
 
 ```
 cd step-2/multi-stage
-docker build -t multi-stage:1.0 .
+bash build.sh
 bash run.sh
 ```
